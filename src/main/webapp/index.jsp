@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello world from Java!</h2>
+<h2>Hello OptiSol!</h2>
 </body>
 </html>
